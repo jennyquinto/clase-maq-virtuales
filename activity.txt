@@ -1,0 +1,21 @@
+1)¿Por que un lenguaje de programacion solo se puede usar en algunos sistemas operativos
+y en otros  no?
+El contenido del archivo ejecutable resultado de la compilación de los lenguajes de
+programación compilados depende del sistema operativo por lo cual no es multiplataforma
+
+2)¿Qué tipo de sistemas operativos soperta VirtualBox?
+Los recursos de la maquina virtual se programan en un sistema operativo host. Por lo que 
+los sistemas operativos que puede simular VirtualBox son Windows, Linux, OS, Solaris entre otros.
+
+3)¿Qué función cumple el hipervisor en la virtualización?
+Permite que un ordenador host preste soporte a varias maquinas virtuales mediante el
+uso compartido virtual de sus recursos, como la memoria  y el procesador
+
+4)¿Si tengo más de una maquina virtual instalada, y una se rompre, qué pasa con las
+demás?
+No se afectará el funcionamiento de las demás ya que las maquinas virtuales se ejecutan
+en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma
+separada.
+
+Jenny Vanessa Quinto Córdoba
+
